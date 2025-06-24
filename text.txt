@@ -1,1 +1,1 @@
-ffmpeg -re stream_loop -1 -i xd.mp4 -c copy -f flv -fflags nobuffer -flags low_delay rtmp://a.rtmp.youtube.com/live2/ej87-qc8h-4k8d-11sk-59xf
+
